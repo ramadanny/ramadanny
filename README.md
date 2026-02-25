@@ -75,7 +75,6 @@ int main() {
 <div align="center">
 
 <a href="https://github.com/ramadanny">
-  <img src="https://img.shields.io/badge/open--source-2d2d2d?style=flat-square&labelColor=2d2d2d&logo=github&logoColor=white" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=ramadanny&color=2d2d2d&style=flat-square&label=visitors" />
 <img src="https://img.shields.io/github/followers/ramadanny?color=2d2d2d&style=flat-square&label=followers" />
