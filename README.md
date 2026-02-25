@@ -2,10 +2,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1300&lines=Hi%2C+I'm+ramadanny!;I'm+a+Syntax+Error+Farmer;Converting+Caffeine+into+Bugs;Expert+at+Copy-Pasting+from+StackOverflow;Code+so+messy%2C+even+AI+is+confused;It's+not+a+bug%2C+it's+an+undocumented+feature" width="70%" />
 <br><br>
 <pre>
-    🌙 18 • Born 9.10.2007
-    💻 JavaScript • C++ • Shell
-    🚀 Node.js • Bun • SQLite
-    ✨ I'm just a normal human, I eat rice.
+🌙 18 • Born 9.10.2007
+💻 JavaScript • C++ • Shell
+🚀 Node.js • Bun • SQLite
+✏️ I'm just a normal human, I eat rice.
 </pre>
 
 [![](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
