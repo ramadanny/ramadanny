@@ -82,6 +82,6 @@ int main() {
 
 <br>
 
-<sub>© 2026 ramadanny</sub>
+<sub>© 2026 Made With Love by <b>ramadanny<b>.</sub>
 
 </div>
