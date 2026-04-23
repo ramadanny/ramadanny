@@ -1,87 +1,32 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1300&lines=Hi%2C+I'm+ramadanny!;I'm+a+Syntax+Error+Farmer;Converting+Caffeine+into+Bugs;Expert+at+Copy-Pasting+from+StackOverflow;Code+so+messy%2C+even+AI+is+confused;It's+not+a+bug%2C+it's+an+undocumented+feature" width="70%" />
-<br><br>
-<pre>
-🌙 18 • Born 9.10.2007
-💻 JavaScript • C++ • Shell
-🚀 Node.js • Bun • SQLite
-✏️ I'm just a normal human, I eat rice.
-</pre>
+# Hi 👋, I'm ramadanny
 
-[![](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/C++-2d2d2d?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![](https://img.shields.io/badge/Bun-2d2d2d?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
-[![](https://img.shields.io/badge/SQLite-2d2d2d?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/)
-[![](https://img.shields.io/badge/Shell-2d2d2d?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-</div>
+### A passionate Javascript developer
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramadanny&label=Profile views&color=0e75b6&style=flat" alt="ramadanny" /> </p>
 
-```cpp
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramadanny" alt="ramadanny" /></a> </p>
 
-/*
- * ramadanny
- * ——————————————
- * 2007.10.9 • 18
- */
- 
-#include <iostream>
-#include <vector>
-#include <string>
+- 🌱 I'm currently learning **C++, Rust, Golang, Shell**
 
-class Developer {
-private:
-    const std::string name = "ramadanny";
-    const std::string role = "Syntax Error Farmer";
-    const std::string motto = "I'm just a normal human, I eat rice.";
+- 💬 Ask me about **Node.js, Bun.js and Backend Development**
 
-public:
-    struct TechStack {
-        std::vector<std::string> languages = {"C++", "JavaScript", "Shell"};
-        std::vector<std::string> runtimes = {"Node.js", "Bun.js"};
-        std::string database = "SQLite";
-    };
+- 📫 How to reach me **mail.ramadanny@gmail.com**
 
-    void initialize() const {
-        TechStack stack;
-        
-        std::cout << ">>> Initializing " << name << ".sys" << std::endl;
-        std::cout << "Role: " << role << std::endl;
-        std::cout << "Motto: " << motto << std::endl;
-        
-        std::cout << "\n[Languages]\n";
-        for (const auto& lang : stack.languages) {
-            std::cout << " - " << lang << "\n";
-        }
+- 👨‍💻 All of my projects are available at **[https://linkbio.co/ramadanny](https://linkbio.co/ramadanny)**
 
-        std::cout << "\n[Environment]\n";
-        for (const auto& rt : stack.runtimes) {
-            std::cout << " - " << rt << "\n";
-        }
-        std::cout << " - " << stack.database << "\n";
-    }
-};
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ramadanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ramadanny" height="30" width="40" /></a>
+<a href="https://instagram.com/ramadanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramadanny" height="30" width="40" /></a>
+<a href="https://twitter.com/ramadanny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramadanny" height="30" width="40" /></a>
+</p>
 
-int main() {
-    Developer me;
-    me.initialize();
-    return 0;
-}
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramadanny&show_icons=true&locale=en&layout=compact" alt="ramadanny" /></p>
 
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramadanny&show_icons=true&locale=en" alt="ramadanny" /></p>
 
-<a href="https://github.com/ramadanny">
-</a>
-<img src="https://komarev.com/ghpvc/?username=ramadanny&color=2d2d2d&style=flat-square&label=visitors" />
-<img src="https://img.shields.io/github/followers/ramadanny?color=2d2d2d&style=flat-square&label=followers" />
-<img src="https://img.shields.io/github/stars/ramadanny?color=2d2d2d&style=flat-square&label=stars" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramadanny&" alt="ramadanny" /></p>
 
-<br>
-
-<sub>© 2026 Made With Love by <b>ramadanny<b>.</sub>
-
-</div>
